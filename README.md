@@ -1,6 +1,13 @@
 # dsorin-linkedlist
 Linked list implementation in JavaScript
 
+# How to develop
+```bash
+git clone git@github.com:1999/dsorin-linkedlist.git
+cd dsorin-linkedlist
+npm install
+```
+
 # API
 ```javascript
 const Node = require('dsorin-linkedlist');
