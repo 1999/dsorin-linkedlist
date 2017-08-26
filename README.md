@@ -1,4 +1,6 @@
 # dsorin-linkedlist
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/1999/dsorin-linkedlist.svg)](https://greenkeeper.io/)
 Linked list implementation in JavaScript
 
 # How to develop
